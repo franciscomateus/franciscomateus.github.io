@@ -1,0 +1,75 @@
+ html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-image: url('../landscape.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.btn {
+    margin: 2px 0;
+}
+
+.jumbotron {
+    margin-bottom: 100px;
+}
+
+.main {
+    background-color: #e9ecefa6;
+}
+
+.project-logo {
+    display: inline-block;
+    position: relative;
+    width: 20%;
+}
+
+.project {
+    padding: 32px 0;
+}
+
+#technologies, #projects {
+    background-color: #e9ecefa6;
+}
+
+#goToTop {
+    position: fixed;
+    transition: bottom 0.2s;
+    right: 15px;
+    bottom: -75px;
+    z-index: 100;
+}
+
+.project-image {
+    position: relative;
+    overflow: hidden;
+}
+
+.project-image .bg-overlay{
+    position: absolute;
+    height: 0;
+    width: 100%;
+    background-color: #5f5f5fa6;
+    transition: height 0.2s;
+    overflow: hidden;
+}
+
+.project-image .bg-overlay i{
+    position: absolute;
+    top: 35%;
+    left: 40%;
+    font-size: 55px;
+    color: white;
+}
+
+.project-image:hover .bg-overlay {
+    height: 100%;
+}
+
+.more-info-project {
+    cursor: pointer;
+}
