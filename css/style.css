@@ -73,3 +73,7 @@ body {
 .more-info-project {
     cursor: pointer;
 }
+
+.project-img {
+    width:100%;
+}
