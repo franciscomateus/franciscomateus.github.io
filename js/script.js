@@ -95,7 +95,7 @@ pageTitle['en'] = 'Francisco Mateus | Portfolio';
 
 // SUBTITLE UNDER NAME
 var subtitle = [];
-subtitle['pt'] = 'Curso Técnico Superior Profissional em Sistemas de Informação | Politécnico de Leiria';
+subtitle['pt'] = 'Curso Técnico Superior Profissional em Programação de Sistemas de Informação | Politécnico de Leiria';
 subtitle['en'] = 'Technical Course in Programming of Information Systems | Polytechnic of Leiria';
 
 // TITLES
@@ -117,7 +117,7 @@ contactTitle['en'] = 'Contact';
 
 // ABOUT
 var textAbout = [];
-textAbout['pt'] = 'Olá, eu sou o Francisco, e frequento atualmente o segundo e último ano do CTeSP de Programação de Sistemas de Informação,'
+textAbout['pt'] = 'Olá, eu sou o Francisco, e frequento atualmente o segundo e último ano do CTeSP em Programação de Sistemas de Informação,'
 + ' e interesso-me especialmente por desenvolvimento Web. Gosto de novos desafios e de aprender novas tecnologias, ferramentas e metodologias'
 + ' a fim de melhor tanto o processo de desenvolvimento, como o produto a desenvolver.';
 textAbout['en'] = 'Hi, I\'m Francisco, and I currently attend the second and last year of the Technical Course in Programming of Information Systems,'
